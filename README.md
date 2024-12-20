@@ -1,6 +1,6 @@
 # Nathan Dela Paz
 
-[njdelapaz.github.io]
+Visit my website here: [njdelapaz.github.io]
 \
 \
 This is my first shot at my personal website. Template is taken from [Just the Docs].
