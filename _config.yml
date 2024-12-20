@@ -1,8 +1,14 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Nathan Dela Paz
+description: Nathan Dela Paz's personal website
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
+# Aux links for the upper right navigation
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Github":
+    - "https://github.com/njdelapaz/"
+  "LinkedIn":
+    - "https://www.linkedin.com/in/nathandelapaz//"
+
+search_enabled: false
